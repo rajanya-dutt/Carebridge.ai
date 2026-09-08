@@ -1,0 +1,104 @@
+Index,Folder,Filename,Feature,Step Description,Recommended PPT Usage
+1,01_launch,01_01_application_launch.png,Application Launch & Shell,01 01 Application Launch,Opening Title / Hero product introduction
+2,01_launch,01_02_initial_dashboard.png,Application Launch & Shell,01 02 Initial Dashboard,Feature walkthrough slide
+3,01_launch,01_03_sidebar_open.png,Application Launch & Shell,01 03 Sidebar Open,AI Safety & Data Governance slide
+4,02_patient_creation,02_01_add_patient_button.png,Patient Onboarding Flow,02 01 Add Patient Button,Patient Data Isolation & Privacy slide
+5,02_patient_creation,02_02_add_patient_form.png,Patient Onboarding Flow,02 02 Add Patient Form,Feature walkthrough slide
+6,02_patient_creation,02_03_patient_details_entered.png,Patient Onboarding Flow,02 03 Patient Details Entered,AI Safety & Data Governance slide
+7,02_patient_creation,02_04_first_document_required.png,Patient Onboarding Flow,02 04 First Document Required,Feature walkthrough slide
+8,02_patient_creation,02_05_prescription_selected.png,Patient Onboarding Flow,02 05 Prescription Selected,Feature walkthrough slide
+9,02_patient_creation,02_06_name_verification.png,Patient Onboarding Flow,02 06 Name Verification,Feature walkthrough slide
+10,02_patient_creation,02_07_patient_processing.png,Patient Onboarding Flow,02 07 Patient Processing,Feature walkthrough slide
+11,02_patient_creation,02_08_patient_created.png,Patient Onboarding Flow,02 08 Patient Created,Feature walkthrough slide
+12,02_patient_creation,02_09_dashboard_after_patient_creation.png,Patient Onboarding Flow,02 09 Dashboard After Patient Creation,Feature walkthrough slide
+13,03_document_upload,03_01_name_mismatch_popup.png,Clinical Safety & AI Verification,03 01 Name Mismatch Popup,AI Safety & Data Governance slide
+14,03_document_upload,03_02_name_mismatch_yes.png,Clinical Safety & AI Verification,03 02 Name Mismatch Yes,AI Safety & Data Governance slide
+15,03_document_upload,03_03_name_mismatch_no.png,Clinical Safety & AI Verification,03 03 Name Mismatch No,AI Safety & Data Governance slide
+16,04_processing,04_01_documents_page_before_upload.png,AI Ingestion Pipeline,04 01 Documents Page Before Upload,Feature walkthrough slide
+17,04_processing,04_02_upload_area.png,AI Ingestion Pipeline,04 02 Upload Area,Feature walkthrough slide
+18,04_processing,04_07_gemini_processing.png,AI Ingestion Pipeline,04 07 Gemini Processing,Feature walkthrough slide
+19,05_dashboard,05_01_pdf_upload.png,Multi-Format Ingestion & Dashboard,05 01 Pdf Upload,Feature walkthrough slide
+20,05_dashboard,05_02_png_upload.png,Multi-Format Ingestion & Dashboard,05 02 Png Upload,Feature walkthrough slide
+21,05_dashboard,05_03_jpg_upload.png,Multi-Format Ingestion & Dashboard,05 03 Jpg Upload,AI Safety & Data Governance slide
+22,05_dashboard,05_04_jpeg_upload.png,Multi-Format Ingestion & Dashboard,05 04 Jpeg Upload,Feature walkthrough slide
+23,05_dashboard,05_05_webp_upload.png,Multi-Format Ingestion & Dashboard,05 05 Webp Upload,Feature walkthrough slide
+24,05_dashboard,07_01_dashboard_light.png,Multi-Format Ingestion & Dashboard,07 01 Dashboard Light,Primary PPT Hero / Closing demo slide
+25,05_dashboard,07_02_dashboard_dark.png,Multi-Format Ingestion & Dashboard,07 02 Dashboard Dark,Feature walkthrough slide
+26,06_documents,06_01_scanned_prescription_detected.png,Clinical Document Repository,06 01 Scanned Prescription Detected,Feature walkthrough slide
+27,06_documents,09_01_documents_overview.png,Clinical Document Repository,09 01 Documents Overview,Feature walkthrough slide
+28,06_documents,09_03_document_details.png,Clinical Document Repository,09 03 Document Details,AI Safety & Data Governance slide
+29,07_timeline,08_01_sidebar_top.png,Longitudinal Health Story,08 01 Sidebar Top,Feature walkthrough slide
+30,07_timeline,08_02_sidebar_middle.png,Longitudinal Health Story,08 02 Sidebar Middle,Feature walkthrough slide
+31,07_timeline,08_03_sidebar_bottom.png,Longitudinal Health Story,08 03 Sidebar Bottom,AI Safety & Data Governance slide
+32,07_timeline,10_01_timeline_overview.png,Longitudinal Health Story,10 01 Timeline Overview,Feature walkthrough slide
+33,07_timeline,10_02_timeline_prescription.png,Longitudinal Health Story,10 02 Timeline Prescription,Feature walkthrough slide
+34,08_trends,11_01_trends_page.png,Biomarker Analytics & Shifts,11 01 Trends Page,Feature walkthrough slide
+35,08_trends,11_02_trend_chart.png,Biomarker Analytics & Shifts,11 02 Trend Chart,Feature walkthrough slide
+36,09_medications,12_01_medications_overview.png,Therapeutic Regimen Tracking,12 01 Medications Overview,Feature walkthrough slide
+37,09_medications,12_02_current_medications.png,Therapeutic Regimen Tracking,12 02 Current Medications,Feature walkthrough slide
+38,09_medications,12_03_historical_medications.png,Therapeutic Regimen Tracking,12 03 Historical Medications,AI Safety & Data Governance slide
+39,10_doctor_brief,13_01_doctor_brief_empty.png,AI Clinical Doctor Brief,13 01 Doctor Brief Empty,AI Doctor Brief & Clinical Continuity slide
+40,10_doctor_brief,13_02_doctor_brief_generating.png,AI Clinical Doctor Brief,13 02 Doctor Brief Generating,AI Doctor Brief & Clinical Continuity slide
+41,10_doctor_brief,13_04_doctor_brief_generated.png,AI Clinical Doctor Brief,13 04 Doctor Brief Generated,AI Doctor Brief & Clinical Continuity slide
+42,10_doctor_brief,13_05_doctor_brief_ai_disclaimer.png,AI Clinical Doctor Brief,13 05 Doctor Brief Ai Disclaimer,AI Doctor Brief & Clinical Continuity slide
+43,11_translation,14_01_translate_initial.png,Multilingual Regional Translation,14 01 Translate Initial,Multilingual Accessibility slide
+44,11_translation,14_02_english_translation.png,Multilingual Regional Translation,14 02 English Translation,Multilingual Accessibility slide
+45,11_translation,14_03_hindi_translation.png,Multilingual Regional Translation,14 03 Hindi Translation,Multilingual Accessibility slide
+46,11_translation,14_04_bengali_translation.png,Multilingual Regional Translation,14 04 Bengali Translation,Multilingual Accessibility slide
+47,11_translation,14_05_assamese_translation.png,Multilingual Regional Translation,14 05 Assamese Translation,Multilingual Accessibility slide
+48,11_translation,14_06_odia_translation.png,Multilingual Regional Translation,14 06 Odia Translation,Multilingual Accessibility slide
+49,11_translation,14_07_tamil_translation.png,Multilingual Regional Translation,14 07 Tamil Translation,Multilingual Accessibility slide
+50,11_translation,14_08_telugu_translation.png,Multilingual Regional Translation,14 08 Telugu Translation,Multilingual Accessibility slide
+51,11_translation,14_09_marathi_translation.png,Multilingual Regional Translation,14 09 Marathi Translation,Multilingual Accessibility slide
+52,11_translation,14_10_gujarati_translation.png,Multilingual Regional Translation,14 10 Gujarati Translation,Multilingual Accessibility slide
+53,11_translation,14_11_kannada_translation.png,Multilingual Regional Translation,14 11 Kannada Translation,Multilingual Accessibility slide
+54,11_translation,14_12_malayalam_translation.png,Multilingual Regional Translation,14 12 Malayalam Translation,Multilingual Accessibility slide
+55,11_translation,14_13_punjabi_translation.png,Multilingual Regional Translation,14 13 Punjabi Translation,AI Doctor Brief & Clinical Continuity slide
+56,11_translation,14_14_urdu_translation.png,Multilingual Regional Translation,14 14 Urdu Translation,Multilingual Accessibility slide
+57,12_tts,15_01_tts_ready.png,Voice Accessibility & Plain Terms,15 01 Tts Ready,Feature walkthrough slide
+58,12_tts,15_02_tts_playing.png,Voice Accessibility & Plain Terms,15 02 Tts Playing,Feature walkthrough slide
+59,12_tts,16_01_key_medical_terms.png,Voice Accessibility & Plain Terms,16 01 Key Medical Terms,Feature walkthrough slide
+60,13_emergency,17_01_emergency_button.png,One-Click Emergency Mode (ICE),17 01 Emergency Button,Emergency Triage & Patient Safety Hero slide
+61,13_emergency,17_02_emergency_mode_open.png,One-Click Emergency Mode (ICE),17 02 Emergency Mode Open,Emergency Triage & Patient Safety Hero slide
+62,13_emergency,17_03_emergency_profile.png,One-Click Emergency Mode (ICE),17 03 Emergency Profile,Emergency Triage & Patient Safety Hero slide
+63,13_emergency,17_04_location_state.png,One-Click Emergency Mode (ICE),17 04 Location State,Emergency Triage & Patient Safety Hero slide
+64,13_emergency,17_05_emergency_actions.png,One-Click Emergency Mode (ICE),17 05 Emergency Actions,Emergency Triage & Patient Safety Hero slide
+65,13_emergency,17_06_other_patient_emergency.png,One-Click Emergency Mode (ICE),17 06 Other Patient Emergency,Emergency Triage & Patient Safety Hero slide
+66,14_prescriptions,18_01_prescriptions_page.png,Prescription Management & Audit,18 01 Prescriptions Page,Feature walkthrough slide
+67,14_prescriptions,18_02_prescription_card.png,Prescription Management & Audit,18 02 Prescription Card,Feature walkthrough slide
+68,14_prescriptions,18_03_delete_prescription_button.png,Prescription Management & Audit,18 03 Delete Prescription Button,AI Safety & Data Governance slide
+69,14_prescriptions,18_04_delete_confirmation.png,Prescription Management & Audit,18 04 Delete Confirmation,Feature walkthrough slide
+70,14_prescriptions,18_05_after_delete.png,Prescription Management & Audit,18 05 After Delete,Feature walkthrough slide
+71,15_patient_management,20_01_add_second_patient.png,Patient Isolation & Management,20 01 Add Second Patient,Feature walkthrough slide
+72,15_patient_management,20_02_second_patient_created.png,Patient Isolation & Management,20 02 Second Patient Created,Feature walkthrough slide
+73,15_patient_management,20_03_patient_selector_multiple.png,Patient Isolation & Management,20 03 Patient Selector Multiple,AI Safety & Data Governance slide
+74,15_patient_management,21_01_patient_A_dashboard.png,Patient Isolation & Management,21 01 Patient A Dashboard,Patient Data Isolation & Privacy slide
+75,15_patient_management,21_02_patient_B_dashboard.png,Patient Isolation & Management,21 02 Patient B Dashboard,Patient Data Isolation & Privacy slide
+76,15_patient_management,21_04_patient_B_emergency.png,Patient Isolation & Management,21 04 Patient B Emergency,Emergency Triage & Patient Safety Hero slide
+77,16_demo_patient,22_01_load_demo_button.png,Safe Demo Generator Engine,22 01 Load Demo Button,Feature walkthrough slide
+78,16_demo_patient,22_02_demo_loading.png,Safe Demo Generator Engine,22 02 Demo Loading,Feature walkthrough slide
+79,16_demo_patient,22_03_demo_patient_loaded.png,Safe Demo Generator Engine,22 03 Demo Patient Loaded,AI Safety & Data Governance slide
+80,16_demo_patient,22_04_patient_selector_after_demo.png,Safe Demo Generator Engine,22 04 Patient Selector After Demo,Feature walkthrough slide
+81,17_theme,23_01_dashboard_light.png,Design System & Accessibility,23 01 Dashboard Light,Feature walkthrough slide
+82,17_theme,23_02_dashboard_dark.png,Design System & Accessibility,23 02 Dashboard Dark,Feature walkthrough slide
+83,17_theme,23_03_documents_light.png,Design System & Accessibility,23 03 Documents Light,AI Safety & Data Governance slide
+84,17_theme,23_04_documents_dark.png,Design System & Accessibility,23 04 Documents Dark,Feature walkthrough slide
+85,17_theme,23_05_translate_light.png,Design System & Accessibility,23 05 Translate Light,Feature walkthrough slide
+86,17_theme,23_06_translate_dark.png,Design System & Accessibility,23 06 Translate Dark,Feature walkthrough slide
+87,17_theme,23_07_emergency_light_or_dark.png,Design System & Accessibility,23 07 Emergency Light Or Dark,Emergency Triage & Patient Safety Hero slide
+88,18_responsive,24_01_mobile_dashboard.png,Responsive Architecture,24 01 Mobile Dashboard,Responsive Mobile & Clinical Tablet slide
+89,18_responsive,24_03_mobile_upload.png,Responsive Architecture,24 03 Mobile Upload,Responsive Mobile & Clinical Tablet slide
+90,18_responsive,24_04_mobile_timeline.png,Responsive Architecture,24 04 Mobile Timeline,Responsive Mobile & Clinical Tablet slide
+91,18_responsive,24_05_mobile_emergency.png,Responsive Architecture,24 05 Mobile Emergency,Emergency Triage & Patient Safety Hero slide
+92,18_responsive,24_06_mobile_translate.png,Responsive Architecture,24 06 Mobile Translate,Responsive Mobile & Clinical Tablet slide
+93,18_responsive,24_07_tablet_dashboard.png,Responsive Architecture,24 07 Tablet Dashboard,Responsive Mobile & Clinical Tablet slide
+94,19_final_states,25_01_before_new_prescription.png,Continuous Health Story & Master Heroes,25 01 Before New Prescription,Feature walkthrough slide
+95,19_final_states,25_02_new_prescription_processing.png,Continuous Health Story & Master Heroes,25 02 New Prescription Processing,Feature walkthrough slide
+96,19_final_states,25_04_new_current_medications.png,Continuous Health Story & Master Heroes,25 04 New Current Medications,Feature walkthrough slide
+97,19_final_states,25_05_timeline_updated.png,Continuous Health Story & Master Heroes,25 05 Timeline Updated,Feature walkthrough slide
+98,19_final_states,25_06_dashboard_updated.png,Continuous Health Story & Master Heroes,25 06 Dashboard Updated,Feature walkthrough slide
+99,19_final_states,26_01_final_dashboard_light.png,Continuous Health Story & Master Heroes,26 01 Final Dashboard Light,Primary PPT Hero / Closing demo slide
+100,19_final_states,26_02_final_dashboard_dark.png,Continuous Health Story & Master Heroes,26 02 Final Dashboard Dark,Primary PPT Hero / Closing demo slide
+101,19_final_states,26_04_final_emergency.png,Continuous Health Story & Master Heroes,26 04 Final Emergency,Primary PPT Hero / Closing demo slide
+102,19_final_states,26_05_final_translation.png,Continuous Health Story & Master Heroes,26 05 Final Translation,Primary PPT Hero / Closing demo slide
+103,19_final_states,26_06_final_doctor_brief.png,Continuous Health Story & Master Heroes,26 06 Final Doctor Brief,Primary PPT Hero / Closing demo slide

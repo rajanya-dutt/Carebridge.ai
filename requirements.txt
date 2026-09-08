@@ -1,0 +1,9 @@
+google-genai>=0.1.1
+pymupdf>=1.24.0
+pandas>=2.2.0
+python-dotenv>=1.0.1
+gTTS>=2.5.0
+fastapi>=0.110.0
+uvicorn>=0.29.0
+python-multipart>=0.0.9
+pillow>=10.0.0
